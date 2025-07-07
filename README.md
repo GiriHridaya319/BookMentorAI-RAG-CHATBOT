@@ -1,6 +1,3 @@
-Got it! Here’s a simplified README tailored for your current state (just the notebook in a folder named `CHATBOT`):
-
----
 
 # CHATBOT — RAG-based Document Query Chatbot with Llama 3.2
 
